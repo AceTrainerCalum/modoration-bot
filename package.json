@@ -1,0 +1,13 @@
+{
+	"name": "tutorial-bot",
+	"version": "1.0.0",
+	"main": "src/index.js",
+	"author": "Ferotiq",
+	"license": "ISC",
+	"description": "",
+	"dependencies": {
+		"discord.js": "^13.0.1",
+		"node-fetch": "^2.6.1",
+		"pokedex-promise-v2": "^3.3.2"
+	}
+}
